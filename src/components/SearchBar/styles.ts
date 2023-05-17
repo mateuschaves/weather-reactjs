@@ -11,7 +11,7 @@ export const SearchBarContainer = styled.div`
   display: flex;
   align-items: center;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
-  width: 32rem;
+  width: 30rem;
   
   input {
     border: none;
