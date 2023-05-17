@@ -8,7 +8,7 @@
     "build": "tsc && vite build",
     "lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "serve": "serve dist"
+    "serve": "npx serve -s dist -p 8000"
   },
   "engines": {
     "node": ">=16.0.0"
